@@ -2,6 +2,3 @@
 layout: post
 title: Week One
 ---
-
-## What did you do this past week?
-This past week, we started class. The first two days of class we went over the syllabus, course logistics, and a general overview of what will be expected of us in this course.  We also took a first look at the C++ programming language and what some of the differences between C++ and Java, as well as what's actually happening on the system when we use certain statements, such as `using namespace`.
