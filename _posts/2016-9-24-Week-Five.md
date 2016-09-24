@@ -14,7 +14,7 @@ I'm exhausted after working non-stop for the past 6 weeks, and it's getting more
 Continue working, of course!  Now that we have a slight lull in OOP-projects, I'm going to prioritize some of the other classes that I've been mostly neglecting.
 
 ## My experience with the class so far.
-This week has been great. The first few weeks of class were very easy and largely uneventful, and I was a little concerned that the class had been over-hyped, but the class is definitely living up to its promise.
+This week has been great. The first few weeks of class were very easy and largely uneventful, and I was a little concerned that the class had been over-hyped, but the class is starting to living up to its promise.
 
 ## Pick of the week:
 The Selenium IDE firefox plugin <http://www.seleniumhq.org/projects/ide/> is wonderful for web-development/QA-testing! You can set it to record your interactions with your browser/webpages, such as clicking-buttons, filling in text/form-fields, logging-in, etc, and then saves the recording in a Selenium format for direct playback. You can also export the recording to Ruby, C++, Java, and a few other languages that are currently in the works. No more scouring through the html code for a unique identifier, the Selenium plugin does it all for you!  Even if you only need unique identifiers to access web-elements, Selenium displays the unique identifiers in the recording, which makes searching for-identifiers a moot-issue.
