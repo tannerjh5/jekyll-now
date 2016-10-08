@@ -17,7 +17,7 @@ Finish up my Programming Languages project that has consumed so much of my time 
 The class has been enjoyable and worthwhile, and it's taught many skills that prove valuable in industry.
 
 ## Tip of the week:
-[Terraforming Mars](https://www.amazon.com/Stronghold-Games-6005SG-Terraforming-Board/dp/B01GSYA4K2/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1475943324&sr=1-1&keywords=terraforming+mars). Best board-game ever. Though I suppose I have to add something tech-related -- it should come as no surprise that GitHub offers a search bar to search through the website, but it also offers the filter the search results to only display users' code that contains the search query. If you are unsure on the semantics of a particular function or class, and there isn't much useful documentation available, then a code search through github may prove invaluable.
+[Terraforming Mars](https://www.amazon.com/Stronghold-Games-6005SG-Terraforming-Board/dp/B01GSYA4K2/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1475943324&sr=1-1&keywords=terraforming+mars). Best board-game ever. Though I suppose I have to add something tech-related -- it should come as no surprise that GitHub offers a search bar to search through the website, but did you know that it also offers the ability to filter your search results to only display code that contains your search query? If you are unsure on the semantics of a particular function or class, and there isn't much useful documentation available, then a code search through github may prove invaluable.
 
 ## Joke of the week:
 Enter these commands on a Linux system that has the aptitude package-manager installed (a UTCS machine works fine):
