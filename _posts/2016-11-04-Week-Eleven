@@ -1,0 +1,19 @@
+---
+layout: post
+title: Week-Ten
+fullview: true
+---
+
+## What did you do this past week?
+
+## What's in your way?
+
+## What will you do next week?
+
+## My experience with the class so far.
+
+## Pick of the week:
+For my fellow QA-testers out there, I want to talk about how awesome [TestCafe](https://testcafe.devexpress.com/) is!  TestCafe provides a javascript framework in which you can develop quick, web-based javascript scripts. TestCafe handles javascript's asynchronous nature quite well, and accounts for loading times of the webpage, element availabilty, and more. TestCafe can be readily installed through npm, and handles javascript files written with a minimal "preface/style". With TestCafe, you can easily write QA tests that run readily run on a multitude of browsers. TestCafe also creates and saves a video of your script being played to help with debugging the website. TestCafe also integrates very nicely with SauceLabs.
+
+## Joke of the week:
+I’ve got a really good UDP joke to tell you, but I don’t know if you’ll get it.
