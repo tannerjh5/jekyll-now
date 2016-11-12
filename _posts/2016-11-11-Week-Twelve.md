@@ -22,7 +22,7 @@ Here's a [great article](https://www.linkedin.com/pulse/surprising-things-ultra-
 ## Joke of the week:
 Knock Knock.    
 -Who's there?   
-Denial-of-Service attack.
+Denial-of-Service attack.    
 -Denial-of-Ser...    
 Knock Knock.    
 Knock Knock.    
@@ -1497,7 +1497,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.      
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
@@ -2970,7 +2970,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.        
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
@@ -7389,7 +7389,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.      
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
@@ -8862,7 +8862,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.      
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
@@ -10335,7 +10335,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.      
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
@@ -11808,7 +11808,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.     
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
@@ -13281,7 +13281,7 @@ Knock Knock.
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
-Knock Knock.    Knock Knock.    
+Knock Knock.       
 Knock Knock.    
 Knock Knock.    
 Knock Knock.    
