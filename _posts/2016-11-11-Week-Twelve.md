@@ -17,7 +17,7 @@ Finish the Life project, and start wrapping-up my research paper.
 After reading the articles that were assigned for this week, the teaching-style of this class became clear to me. I had my reservations throughout the semester about how much time was being spent -- and emphasis placed -- on covering proper industry programming techniques, but I now believe that the dual-purpose nature of this curriculum has been for the best. Also, do the readings! I'm assuming that, if you are a potential future student reading this blog-post, then you are interested in Object-Oriented Programming, and if that is the case, then you will want to do the readings (if only for your own benefit).
 
 ## Tip of the week:
-Here's a (great article)[https://www.linkedin.com/pulse/surprising-things-ultra-productive-people-do-every-day-bradberry] on how to make yourself more productive. Everyone is different, but I've found that a lot of the tips suggested have worked very well for me.
+Here's a [great article](https://www.linkedin.com/pulse/surprising-things-ultra-productive-people-do-every-day-bradberry) on how to make yourself more productive. Everyone is different, but I've found that a lot of the tips suggested have worked very well for me.
 
 ## Joke of the week:
 Knock Knock.    
