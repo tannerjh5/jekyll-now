@@ -20,4 +20,6 @@ After reading the articles that were assigned for this week, the teaching-style 
 Here's a [great article](https://www.linkedin.com/pulse/surprising-things-ultra-productive-people-do-every-day-bradberry) on how to make yourself more productive. Everyone is different, but I've found that a lot of the tips suggested have worked very well for me.
 
 ## Joke of the week:
-EDIT: It seems my joke about Denial-of-Service attacks actually caused Denial-of-Service attacks on visitors using specific versions of the Safari web-browser. Instead, ![here](https://github.com/tannerjh5/tannerjh5.github.io/blob/master/images/DoS.png) is an DoS-free image of the jok.e
+EDIT: It seems my joke about Denial-of-Service attacks actually caused Denial-of-Service attacks on visitors using specific versions of the Safari web-browser. Instead, here is an DoS-free image of the joke:    
+
+![sorry](https://github.com/tannerjh5/tannerjh5.github.io/blob/master/images/DoSS.png)
