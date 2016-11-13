@@ -22,4 +22,4 @@ Here's a [great article](https://www.linkedin.com/pulse/surprising-things-ultra-
 ## Joke of the week:
 EDIT: It seems my joke about Denial-of-Service attacks actually caused Denial-of-Service attacks on visitors using specific versions of the Safari web-browser. As a work-around, here is a DoS-free image of (most of) the joke:    
 
-![sorry](https://github.com/tannerjh5/tannerjh5.github.io/blob/master/images/DoSS.png)
+![sorry](https://raw.githubusercontent.com/tannerjh5/tannerjh5.github.io/master/images/DoSS.png)
