@@ -20,4 +20,4 @@ Great. I'm glad that I decided to stick through the class and see how everything
 LinkedIn and GitHub are both very powerful sites to show-off your skills and impress recruiters. Tend to your repos, make those connections, get those endorsements -- they help a lot more than you might think.
 
 ## Joke of the week (Now, DoS-Free!):
-This game I bought said ‘Requires Windows Vista or better’, So I installed Linux.
+This game I bought said ‘Requires Windows Vista or better’, so I installed Linux.
